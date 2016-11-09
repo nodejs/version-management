@@ -32,8 +32,11 @@ A full list including different capabilities and semantics is
 [here](https://cdn.rawgit.com/jasongin/cf9f64dd2739d78412bb9410701bf166/raw/69d48e0774f43280763eb7bb7175e930ab3e9f33/NodeVersionManagers.html)
 - props to [@jasongin](https://github.com/jasongin).
 
-But the number of configuration options and operating environments for Node.js
-continues to multiply, and each of the available managers tackles only some of
+The number of configuration options, operating environments and major
+version releases for Node.js continues to multiply and yet there is no official
+way to use multiple of these versions at the same time.
+
+Even though there are version managers available, each of them tackles only some of
 these options, and only in certain environments. For example, some work on
 Windows, some only on Linux. Some use shell script, some use JavaScript, and
 some use Go. Some support different environments per directory/project, and some
