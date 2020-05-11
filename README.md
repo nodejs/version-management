@@ -23,3 +23,4 @@ here in the Node Foundation.
 * @joshgav
 * @refack
 * @shadowspawn
+* @jasonkarns
